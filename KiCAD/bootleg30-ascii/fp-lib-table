@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name cscslib)(type KiCad)(uri ${KIPRJMOD}/KiCAD/cscslib.pretty)(options "")(descr ""))
+  (lib (name a30keylib)(type Github)(uri https://github.com/ai03-2725/MX_Alps_Hybrid)(options "")(descr ""))
+)

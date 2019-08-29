@@ -1,0 +1,16 @@
+(module CPG151101S11_frame (layer F.Cu) (tedit 5CBC9337)
+  (fp_text reference Ref** (at 0 0) (layer F.Fab) hide
+    (effects (font (size 1.27 1.27) (thickness 0.15)))
+  )
+  (fp_text value Val** (at 0 0 180) (layer F.Fab) hide
+    (effects (font (size 1.27 1.27) (thickness 0.15)))
+  )
+  (fp_line (start -7 -7) (end -7 7) (layer Edge.Cuts) (width 0.15))
+  (fp_line (start -7 7) (end 7 7) (layer Edge.Cuts) (width 0.15))
+  (fp_line (start 7 -7) (end 7 7) (layer Edge.Cuts) (width 0.15))
+  (fp_line (start -7 -7) (end 7 -7) (layer Edge.Cuts) (width 0.15))
+  (fp_line (start -9.4 9.4) (end -9.4 -9.4) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 9.4 9.4) (end -9.4 9.4) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 9.4 -9.4) (end 9.4 9.4) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -9.4 -9.4) (end 9.4 -9.4) (layer Dwgs.User) (width 0.15))
+)
