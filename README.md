@@ -33,9 +33,12 @@ Ally24の中央のBSがない配列になります
 soroban30を24°づつ折り曲げて隙間にスイッチを二つ入れたもの
 
 キー配置の詳細はソースのkeymap.cを参照してください
+  
 
 ## ビルドガイド
 [Build Guide](https://github.com/hatanoh/30p/blob/master/Doc/buildguide.md)
 
 ## ファームウェア
 [Firmware/BLE Micro Pro](https://github.com/hatanoh/qmk_firmware)
+
+[キーボード固有部分](https://github.com/hatanoh/qmk_firmware/tree/nrf52/keyboards/sarasarado30_ble)
