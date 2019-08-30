@@ -32,7 +32,7 @@ Ally24の中央のBSがない配列になります
 
 soroban30を24°づつ折り曲げて隙間にスイッチを二つ入れたもの
 
-キー配置の詳細はソースのkeymap.cや
+キー配置の詳細はソースのkeymap.cを参照してください
 
 ## ビルドガイド
 [Build Guide](https://github.com/hatanoh/30p/blob/master/Doc/buildguide.md)
