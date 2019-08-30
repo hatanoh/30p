@@ -113,7 +113,7 @@ BL31
 ```
 BL30
 ```
-% make sarasarado30_ble/bl30aj:default:nrfutil
+% make sarasarado30_ble/b30aj:default:nrfutil
 ```
 AL13
 ```
